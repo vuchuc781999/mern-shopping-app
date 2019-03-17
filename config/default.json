@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://abcdef:J36IwqlNaL8FyFhW@mycluster-oubdi.gcp.mongodb.net/test?retryWrites=true",
+  "mongoURI": "YOUR_URI_HERE",
   "jwtSecret": "sl_myJwtSecret"
 }
